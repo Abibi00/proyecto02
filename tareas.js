@@ -1,4 +1,5 @@
 console.log("Lista de tareas");
-console.log("Agregar tarea 1");
-console.log("Agregar tarea 2");
-console.log("Agregar tarea 3");
+console.log("Estudiar");
+console.log("Comer");
+console.log("Dormir");
+console.log("Estudiar");
